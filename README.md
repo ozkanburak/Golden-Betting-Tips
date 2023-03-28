@@ -19,7 +19,7 @@ Kullanılan Paketler:
 Google Play: https://play.google.com/store/apps/details?id=com.burbur.bettings</br>
 App Store : Yakında...
 
-Takım: 
+Takım: </br>
 Burak ÖZKAN</br>
 Burhan KOÇAK
 
